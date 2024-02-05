@@ -1,9 +1,9 @@
 {
-  "name": "my-app",
+  "name": "kitzoom",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kityeungfe.github.io/my-app",
+  "homepage": "https://kityeungfe.github.io/kitzoom",
   "scripts": {
     "dev": "vite",
     "uat": "vite --mode uat",
